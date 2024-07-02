@@ -1,0 +1,88 @@
+{
+    "template": "Example Markdown Template",
+    "sections": [
+        {
+            "title": "Section 1",
+            "content": "\nThis is the first section of the document. The following is a paragraph:\nIt is simply a display of letters to be viewed as a sample with given graphical elements in a file.\n\n",
+            "subsections": [
+                {
+                    "title": "Subsection A",
+                    "content": "\nThis is the content of sub-section A.\n\n"
+                },
+                {
+                    "title": "Subsection B",
+                    "content": "\nBelow is the sub-section B content:\n\n\n"
+                }
+            ]
+        },
+        {
+            "title": "Section 2",
+            "content": "\nThe following is a bulleted list:\n\n\n",
+            "lists": [
+                {
+                    "type": "bulleted",
+                    "items": []
+                },
+                {
+                    "type": "bulleted",
+                    "items": []
+                },
+                {
+                    "type": "bulleted",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "title": "Section 3",
+            "content": "\nNumbers are the most important thing in the world. The following is a numbered list:\n\n2. Numbered item 2\n3. Numbered item 3\n\n",
+            "lists": [
+                {
+                    "type": "numbered",
+                    "items": []
+                }
+            ],
+            "subsections": [
+                {
+                    "title": "Table Example",
+                    "content": "\n\n",
+                    "table": [
+                        {
+                            "columns": [
+                                "Column A",
+                                "Column B",
+                                "Column C"
+                            ],
+                            "rows": [
+                                [
+                                    "-----------------",
+                                    "-----------------",
+                                    "-----------------"
+                                ],
+                                [
+                                    "Row 1, Column A",
+                                    "Row 1, Column B",
+                                    "Row 1, Column C"
+                                ],
+                                [
+                                    "Row 2, Column A",
+                                    "Row 2, Column B",
+                                    "Row 2, Column C"
+                                ],
+                                [
+                                    "Row 3, Column A",
+                                    "Row 3, Column B",
+                                    "Row 3, Column C"
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "content": "\nThank you for reading this example template. Please let me know if you have any questions or comments.\n\n"
+        }
+    ]
+}
